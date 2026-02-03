@@ -13,11 +13,11 @@ export default function Page() {
   const getNoButtonText = () => {
     const phrases = [
       "No",
-      "Are you sure?",
+      "yakin?",
       "What if I asked really nicely?",
-      "Pretty please",
-      "With a chocolate rice cake on top",
-      "What about a matcha frostie",
+      "Pweassss mabebe",
+      "mam alan dehhh",
+      "What about a SUSHI",
       "PLEASE POOKIE",
       "But :*(",
       "I am going to die",
@@ -26,7 +26,7 @@ export default function Page() {
       "please babe",
       ":((((",
       "PRETTY PLEASE",
-      "Estoy muerto",
+      "yauda de:(",
       "No :(",
     ];
 
@@ -38,7 +38,7 @@ export default function Page() {
       {yesPressed ? (
         <>
           <img src="https://media.tenor.com/wkzCX9s5kxQAAAAi/0906-peacegoma.gif" />
-          <div className="my-4 text-4xl font-bold">WOOOOOO!!! I love you pookie!! ;))</div>
+          <div className="my-4 text-4xl font-bold">YAYYYYY!!! I lOVE YOU MA BEBEHH!! ;))</div>
         </>
       ) : (
         <>
